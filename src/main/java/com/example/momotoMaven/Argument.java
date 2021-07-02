@@ -1,4 +1,4 @@
-package calcset;
+package com.example.momotoMaven;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;

@@ -1,4 +1,6 @@
-package calcset;
+package com.example.momotoMaven;
+
+import com.example.momotoMaven.Argument;
 
 import java.io.InputStream;
 

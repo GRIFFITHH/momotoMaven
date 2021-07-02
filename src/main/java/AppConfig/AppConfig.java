@@ -1,8 +1,8 @@
 //package AppConfig;
 //
 //import com.example.momotoMaven.Frontend;
-//import calcset.ArgumentResolver;
-//import calcset.Calculator;
+//import com.example.momotoMaven.ArgumentResolver;
+//import com.example.momotoMaven.Calculator;
 //import com.example.momotoMaven.ScannerArgumentResolver;
 //import com.example.momotoMaven.addCalculator;
 //import org.springframework.context.annotation.Bean;
