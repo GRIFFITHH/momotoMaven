@@ -20,6 +20,7 @@ public class MomotoMavenApplication {
 //			Calculator calculator = context.getBean(Calculator.class);
 //			int result = calculator.calc(argument.getA(), argument.getB());
 //			System.out.println("result = "+ result);
+
 			Frontend frontend = context.getBean(Frontend.class);
 			frontend.run();
 
